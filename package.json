@@ -1,0 +1,21 @@
+{
+    "name": "cemuka-dark",
+    "displayName": "cemuka-dark",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.69.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Dark Code",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Dark Code-color-theme.json"
+            }
+        ]
+    }
+}
